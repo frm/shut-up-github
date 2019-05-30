@@ -1,8 +1,10 @@
 # Shut Up, GitHub!
 
+[![][shield]][homepage]
+
 This is the world's most useless extensions.
 
-I use [octobox][octobox] to manage my GitHub Notifications. Which means that
+I use [Octobox][octobox] to manage my GitHub Notifications. Which means that
 when I go to GitHub, I don't want to have my OCD tickled by the notification
 indicator.
 
@@ -15,3 +17,5 @@ topbar.
 And that's that. Cheerio.
 
 [octobox]: https://octobox.io
+[shield]: https://img.shields.io/static/v1.svg?label=mozilla-add-on&message=v0.1&color=FF9400&logo=mozilla-firefox
+[homepage]: https://addons.mozilla.org/en-US/firefox/addon/shut-up-github/
