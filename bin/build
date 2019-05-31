@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+
+set -e
+
+project=$(basename `pwd`)
+
+mkdir build
+
+zip -r -FS ../$project.zip * --exclude "*.git*"
+
+mv ../$project.zip build
