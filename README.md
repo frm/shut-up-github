@@ -14,7 +14,12 @@ propagate to Octobox.
 So I made this Firefox extension to remove the notification indicator from the
 topbar.
 
+And then I got fed up with the GitHub notices and useless sidebars so I removed
+everything that wasn't of interest as well.
+
 And that's that. Cheerio.
+
+![dashboard](screenshots/dashboard.png)
 
 [octobox]: https://octobox.io
 [shield]: https://img.shields.io/static/v1.svg?label=mozilla-add-on&message=v0.1&color=FF9400&logo=mozilla-firefox
