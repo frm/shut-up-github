@@ -22,5 +22,5 @@ And that's that. Cheerio.
 ![dashboard](screenshots/dashboard.png)
 
 [octobox]: https://octobox.io
-[shield]: https://img.shields.io/static/v1.svg?label=mozilla-add-on&message=v0.1&color=FF9400&logo=mozilla-firefox
+[shield]: https://img.shields.io/static/v1.svg?label=mozilla-add-on&message=v0.2.1&color=FF9400&logo=mozilla-firefox
 [homepage]: https://addons.mozilla.org/en-US/firefox/addon/shut-up-github/
