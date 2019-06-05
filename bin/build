@@ -8,6 +8,10 @@ if [ ! -d build ]; then
   mkdir build
 fi
 
-zip -r -FS ../$project.zip * --exclude "*.git*"
+zip -r -FS ../$project.zip * \
+  --exclude "*.git*" \
+  --exclude "*screenshots*" \
+  --exclude "*bin*" \
+  --exclude "*build*"
 
 mv ../$project.zip build
