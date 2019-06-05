@@ -4,7 +4,9 @@ set -e
 
 project=$(basename `pwd`)
 
-mkdir build
+if [ ! -d build ]; then
+  mkdir build
+fi
 
 zip -r -FS ../$project.zip * --exclude "*.git*"
 
